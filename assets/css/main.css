@@ -838,6 +838,11 @@ input, select, textarea {
 			font-size: 1em;
 		}
 
+		#header a {
+			width: 60%;
+			border: solid 1px #fff;
+		}
+
 		#header nav {
 			font-size: 1em;
 		}
@@ -930,4 +935,11 @@ input, select, textarea {
 
 		#header nav {
 			padding: 0 1em;
-		} }
+		} 
+
+		#header a {
+			width: 60%;
+			border: solid 1px #fff;
+		}
+	
+	}
